@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Problem Approaching](README.md#problem)
-1. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Running Instructions](README.md#instructions)
+1. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [Running Instructions](README.md#instructions)
 1. [Output](README.md#output)
 1. [Questions?](README.md#questions?)
 
@@ -50,7 +50,7 @@ The directory structure for your repo should look like this:
 * Input order_product file: `../input/order_products.csv`
 * Output file: `../output/report.csv`
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Please modify this setting in `run.sh`]
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Please modify this setting in `run.sh` with your input/output files.
 
 ### Run Script
 
