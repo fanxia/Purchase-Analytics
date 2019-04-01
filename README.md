@@ -53,10 +53,10 @@ The directory structure for your repo should look like this:
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Please modify this setting in `run.sh` with your input/output files.
 
 ### Run Script
-
-* `chmod +x run.sh`
-* `./run.sh`
-
+```
+$  chmod +x run.sh
+$  ./run.sh
+```
 ## Output
 
 Given the two input files in the input directory, an output file, `report.csv`, is created in the output directory that, for each department, surfaces the following statistics:
@@ -76,6 +76,6 @@ department_id,number_of_orders,number_of_first_orders,percentage
 12,1,0,0.00
 13,2,1,0.50
 16,2,0,0.00
-
+```
 # Questions?
 Email me at fanxia08@gmail.com
